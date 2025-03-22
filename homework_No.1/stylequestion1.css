@@ -1,0 +1,22 @@
+body {
+  font-family: 'ZCOOL XiaoWei',serif;
+  color: white;
+  text-align: center;
+  background-color: #1A36AE}
+
+.btn {
+  font-size: 25px;
+  border: 0;
+  border-radius: 5px;
+  font-family: 'ZCOOL XiaoWei',serif;
+  background-color: white
+}
+
+.btn:hover {
+  background-color: #30A1BD;
+}
+
+img{
+  width: 100%;
+  height: auto;
+}
